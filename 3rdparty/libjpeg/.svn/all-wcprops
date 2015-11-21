@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/opencv/!svn/ver/4280/trunk/opencv/3rdparty/libjpeg
+END
+jddctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jddctmgr.c
+END
+jdatadst.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jdatadst.c
+END
+jerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opencv/!svn/ver/3421/trunk/opencv/3rdparty/libjpeg/jerror.c
+END
+jmemansi.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jmemansi.c
+END
+jchuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jchuff.c
+END
+jdtrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jdtrans.c
+END
+jdhuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jdhuff.c
+END
+jfdctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jfdctfst.c
+END
+jcmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jcmaster.c
+END
+jerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jerror.h
+END
+jdmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jdmaster.c
+END
+jchuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jchuff.h
+END
+jidctfst.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jidctfst.c
+END
+jdhuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jdhuff.h
+END
+transupp.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/transupp.c
+END
+jcparam.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jcparam.c
+END
+jcinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jcinit.c
+END
+transupp.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/transupp.h
+END
+jquant1.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jquant1.c
+END
+jquant2.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jquant2.c
+END
+jcphuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jcphuff.c
+END
+jdct.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jdct.h
+END
+jdatasrc.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jdatasrc.c
+END
+jccolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jccolor.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/opencv/!svn/ver/4280/trunk/opencv/3rdparty/libjpeg/CMakeLists.txt
+END
+jcsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jcsample.c
+END
+jcmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jcmarker.c
+END
+jmemmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/3343/trunk/opencv/3rdparty/libjpeg/jmemmgr.c
+END
+jdmarker.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jdmarker.c
+END
+jdsample.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jdsample.c
+END
+jfdctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jfdctflt.c
+END
+jcapistd.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jcapistd.c
+END
+jdapistd.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jdapistd.c
+END
+jinclude.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jinclude.h
+END
+jidctflt.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jidctflt.c
+END
+jctrans.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jctrans.c
+END
+jversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jversion.h
+END
+jfdctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jfdctint.c
+END
+jpegint.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jpegint.h
+END
+jidctint.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jidctint.c
+END
+jcprepct.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jcprepct.c
+END
+jutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jutils.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/README
+END
+jdinput.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jdinput.c
+END
+jdmerge.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jdmerge.c
+END
+jccoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jccoefct.c
+END
+jdcoefct.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jdcoefct.c
+END
+jcomapi.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jcomapi.c
+END
+jdphuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jdphuff.c
+END
+jcmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/opencv/!svn/ver/3352/trunk/opencv/3rdparty/libjpeg/jcmainct.c
+END
+jidctred.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jidctred.c
+END
+jdmainct.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/opencv/!svn/ver/3352/trunk/opencv/3rdparty/libjpeg/jdmainct.c
+END
+jcapimin.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jcapimin.c
+END
+jdpostct.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jdpostct.c
+END
+jdapimin.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jdapimin.c
+END
+jdcolor.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jdcolor.c
+END
+jmemsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jmemsys.h
+END
+jcdctmgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/opencv/!svn/ver/222/trunk/opencv/3rdparty/libjpeg/jcdctmgr.c
+END

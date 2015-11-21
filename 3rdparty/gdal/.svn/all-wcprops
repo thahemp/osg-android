@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/gdal/!svn/ver/22007/trunk/gdal
+END
+makegdal80.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/gdal/!svn/ver/19840/trunk/gdal/makegdal80.vcproj
+END
+makegdal90.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/gdal/!svn/ver/19840/trunk/gdal/makegdal90.vcproj
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/gdal/!svn/ver/21973/trunk/gdal/configure
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/gdal/!svn/ver/21689/trunk/gdal/Doxyfile
+END
+makefile.vc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/gdal/!svn/ver/18311/trunk/gdal/makefile.vc
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/gdal/!svn/ver/21902/trunk/gdal/VERSION
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/gdal/!svn/ver/19558/trunk/gdal/config.guess
+END
+mkgdaldist.sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/gdal/!svn/ver/21495/trunk/gdal/mkgdaldist.sh
+END
+nmake.opt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/gdal/!svn/ver/21903/trunk/gdal/nmake.opt
+END
+submake.bat
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/gdal/!svn/ver/10609/trunk/gdal/submake.bat
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/gdal/!svn/ver/19558/trunk/gdal/ltmain.sh
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/gdal/!svn/ver/19558/trunk/gdal/config.sub
+END
+LICENSE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/gdal/!svn/ver/18409/trunk/gdal/LICENSE.TXT
+END
+makegdal_gen.bat
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/gdal/!svn/ver/14899/trunk/gdal/makegdal_gen.bat
+END
+mktestdist.sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/gdal/!svn/ver/10609/trunk/gdal/mktestdist.sh
+END
+gdalnightlysvn.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/gdal/!svn/ver/12487/trunk/gdal/gdalnightlysvn.sh
+END
+makegdal80.sln
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/gdal/!svn/ver/12591/trunk/gdal/makegdal80.sln
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/gdal/!svn/ver/11360/trunk/gdal/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/gdal/!svn/ver/21481/trunk/gdal/NEWS
+END
+HOWTO-RELEASE
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/gdal/!svn/ver/21484/trunk/gdal/HOWTO-RELEASE
+END
+PROVENANCE.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/gdal/!svn/ver/18818/trunk/gdal/PROVENANCE.TXT
+END
+makegdal71.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/gdal/!svn/ver/19840/trunk/gdal/makegdal71.vcproj
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/gdal/!svn/ver/21973/trunk/gdal/configure.in
+END
+GNUmakefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/gdal/!svn/ver/21854/trunk/gdal/GNUmakefile
+END
+mkbindist.sh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/gdal/!svn/ver/10609/trunk/gdal/mkbindist.sh
+END
+nmake-wince.opt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/gdal/!svn/ver/10609/trunk/gdal/nmake-wince.opt
+END
+makegdal10.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/gdal/!svn/ver/19840/trunk/gdal/makegdal10.vcxproj
+END
+makegdal10.sln
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/gdal/!svn/ver/18530/trunk/gdal/makegdal10.sln
+END
+COMMITERS
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/gdal/!svn/ver/21571/trunk/gdal/COMMITERS
+END
+svnkeywords.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/gdal/!svn/ver/15034/trunk/gdal/svnkeywords.sh
+END
+makegdal10.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/gdal/!svn/ver/19840/trunk/gdal/makegdal10.vcxproj.filters
+END
+makegdal71.sln
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/gdal/!svn/ver/12354/trunk/gdal/makegdal71.sln
+END
+GDALmake.opt.in
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/gdal/!svn/ver/21893/trunk/gdal/GDALmake.opt.in
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/gdal/!svn/ver/19558/trunk/gdal/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/gdal/!svn/ver/10609/trunk/gdal/install-sh
+END

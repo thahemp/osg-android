@@ -1,0 +1,40 @@
+K 10
+svn:ignore
+V 252
+*~
+*.dll
+*.exe
+*.exp
+*.gdb*
+*.ilk
+*.lib
+*.ncb
+*.obj
+*.pdb
+*.suo
+*.swp
+*.vcproj.*.user
+*.*.manifest
+config.log
+GDALmake.opt
+mynmake.opt
+libgdal.*
+config.status
+libtool
+autom4te.cache
+tags
+ID
+Debug
+Release
+.libs
+.deps
+lib
+Output-Build.txt
+atomicbuiltins
+
+K 13
+svn:mergeinfo
+V 87
+/sandbox/mloskot/winkey-libkml/gdal:18902-19054
+/sandbox/winkey/libkml/gdal:19055-19529
+END

@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 43
+*.aps
+*.plg
+*.o
+*.lo
+Makefile
+.libs
+*.user
+
+END

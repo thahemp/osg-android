@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/gdal/!svn/ver/21610/trunk/gdal/doc
+END
+gdal_polygonize.dox
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/gdal/!svn/ver/16920/trunk/gdal/doc/gdal_polygonize.dox
+END
+sponsorship.dox
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/gdal/!svn/ver/10609/trunk/gdal/doc/sponsorship.dox
+END
+gdal_tutorial.dox
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/gdal/!svn/ver/20418/trunk/gdal/doc/gdal_tutorial.dox
+END
+gdal_proximity.dox
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/gdal/!svn/ver/18282/trunk/gdal/doc/gdal_proximity.dox
+END
+credits.dox
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/gdal/!svn/ver/17875/trunk/gdal/doc/credits.dox
+END
+gdal_footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/gdal/!svn/ver/10609/trunk/gdal/doc/gdal_footer.html
+END
+warptut.dox
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/gdal/!svn/ver/21106/trunk/gdal/doc/warptut.dox
+END
+index.dox
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/gdal/!svn/ver/21610/trunk/gdal/doc/index.dox
+END
+download.dox
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/gdal/!svn/ver/11222/trunk/gdal/doc/download.dox
+END
+grid_tutorial.dox
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/gdal/!svn/ver/14579/trunk/gdal/doc/grid_tutorial.dox
+END
+api.dox
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/gdal/!svn/ver/16657/trunk/gdal/doc/api.dox
+END
+wince_port.dox
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/gdal/!svn/ver/18465/trunk/gdal/doc/wince_port.dox
+END
+examples.dox
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/gdal/!svn/ver/10609/trunk/gdal/doc/examples.dox
+END
+gdal_drivertut.dox
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/gdal/!svn/ver/21117/trunk/gdal/doc/gdal_drivertut.dox
+END
+vb6_tutorial.dox
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/gdal/!svn/ver/13528/trunk/gdal/doc/vb6_tutorial.dox
+END
+gdal_datamodel.dox
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/gdal/!svn/ver/17841/trunk/gdal/doc/gdal_datamodel.dox
+END
+gdal_building.dox
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/gdal/!svn/ver/11076/trunk/gdal/doc/gdal_building.dox
+END

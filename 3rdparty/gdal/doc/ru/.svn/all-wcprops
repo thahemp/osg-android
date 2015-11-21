@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/gdal/!svn/ver/20332/trunk/gdal/doc/ru
+END
+gdal_datamodel_ru.dox
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/gdal/!svn/ver/14551/trunk/gdal/doc/ru/gdal_datamodel_ru.dox
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/gdal/!svn/ver/19585/trunk/gdal/doc/ru/Doxyfile
+END
+gdal_building_ru.dox
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/gdal/!svn/ver/14539/trunk/gdal/doc/ru/gdal_building_ru.dox
+END
+index_ru.dox
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/gdal/!svn/ver/19610/trunk/gdal/doc/ru/index_ru.dox
+END
+gdal_tutorial_ru.dox
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/gdal/!svn/ver/14542/trunk/gdal/doc/ru/gdal_tutorial_ru.dox
+END

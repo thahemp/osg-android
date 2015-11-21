@@ -1,0 +1,10 @@
+include $(CLEAR_VARS)
+LOCAL_MODULE := sqlite3
+LOCAL_C_INCLUDES := \
+		$(SQLITE_PATH) \
+LOCAL_CFLAGS := \
+	$(LOCAL_C_INCLUDES:%=-I%)
+LOCAL_SRC_FILES := \
+		$(SQLITE_PATH)/sqlite3.c \
+		$(SQLITE_PATH)/shell.c
+include $(BUILD_STATIC_LIBRARY)
