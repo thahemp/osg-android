@@ -3,7 +3,7 @@
 # This must match the path to your osg-android build
 BASE_PATH=/home/midcon1/GIT-repos/osg-android
 
-mkdir build && cd build
+mkdir -p build && cd build
 
 cmake .. \
 -DOSG_BUILD_PLATFORM_ANDROID=ON \
